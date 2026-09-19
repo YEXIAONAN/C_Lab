@@ -1,0 +1,23 @@
+{
+    "C_Cpp.autocomplete": "Disabled",
+    // 关闭内联幽灵代码（就是你现在这个！！）
+    "editor.inlineSuggest.enabled": false,
+    "[c]": {
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+        "editor.snippetSuggestions": "none"
+    },
+    "[cpp]": {
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+        "editor.snippetSuggestions": "none"
+    },
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.tabCompletion": "off"
+}
